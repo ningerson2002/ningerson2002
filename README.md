@@ -1,2 +1,12 @@
-# ningerson2002
- 
+### Hi there :wave:
+
+<ing width="35%" align="right" alt="Github" src="https://imgur.com/a/wTJ80aB" />
+
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+
+-:smile: Pronouns: He/Him/His
+-:telescope: I'm currently a CS student at Allegheny College.
+-:books: I'm currently learning about software engineering and data abstraction using Python.
+-:dancers: I'm looking for a software development internship.
+-:mailbox: How to reach me: [Gmail](ningerson2002@gmail.com)
+-:zap: Fun Fact: I'm Native American and Hawaiian
