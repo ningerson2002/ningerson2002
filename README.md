@@ -1,7 +1,5 @@
 ### Hi there :wave:
 
-<ing width="35%" align="right" alt="Github" src="https://imgur.com/a/wTJ80aB" />
-
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 -:smile: Pronouns: He/Him/His
