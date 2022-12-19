@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nic Ingerson</h1>
+<h1 align="center">Aloha 👋, I'm Nic Ingerson</h1>
 <h3 align="center">A computer science student studying at Allegheny College</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ningerson2002" target="blank"><img src="https://img.shields.io/twitter/follow/ningerson2002?logo=twitter&style=for-the-badge" alt="ningerson2002" /></a> </p>
 
-- 🔭 I’m currently working on [Automated Grading Plugin for SheetShuttle](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/automated-grading-plugin)
+- 🔭 I’m currently working on **My Website**
 
-- 🌱 I’m currently learning **Software Engineering and Data Abstraction**
+- 🌱 I’m currently learning **Artificial Intelligence and Data Analytics**
 
-- 📫 How to reach me **ningerson2002@gmail.com**
+- 👯 I'm looking to collaborate on **Frontend Projects**
 
-- ⚡ Fun fact **I play rugby for my school's club team**
+- 🐱‍💻 All of my projects are available on my [GitHub Profile](github.com/ningerson2002)
+
+- 💬 Ask me about --> Python, Anime, and Memes
+
+- 📫 How to reach me --> **ningerson2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
