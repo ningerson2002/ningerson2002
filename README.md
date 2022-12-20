@@ -13,7 +13,7 @@
 
 - 👯 I'm looking to collaborate on **Frontend Projects**
 
-- 🐱‍💻 All of my projects are available on my [GitHub Profile](github.com/ningerson2002)
+- 👨🏾‍💻 All of my projects are available on my [GitHub Profile](github.com/ningerson2002)
 
 - 💬 Ask me about --> Python, Anime, and Memes
 
