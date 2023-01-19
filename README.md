@@ -15,7 +15,7 @@
 
 - 👨🏾‍💻 All of my projects are available on my [GitHub Profile](github.com/ningerson2002)
 
-- 💬 Ask me about --> Python, Anime, and Memes
+- 💬 Ask me about --> Python, Anime, and Video Games
 
 - 📫 How to reach me --> **ningerson2002@gmail.com**
 
