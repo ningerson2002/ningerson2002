@@ -29,9 +29,10 @@ that I can use in my every day life; from problem-solving to conceptualizing.
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Markdown" title="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="R" title="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
 
 #
@@ -39,3 +40,14 @@ that I can use in my every day life; from problem-solving to conceptualizing.
 ### 📊 Stats
 
 ![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&theme=gruvbox)
+
+<details>
+<summary>
+<h3>
+🧑‍💻 Nic's Coding Journey
+</h3>
+</summary>
+My coding journey started when I dabbled in video game development using C#, but eventually I forgot about it. However, I kept my interest in coding alive by taking various Python lessons on freeCodeCamp.
+Between 2019 and 2021, I took a break from coding and enrolled in Allegheny College. It wasn't until my Fall semester when I took a Computational Expression course that I fell in love with coding again.
+Since then, I have taken multiple courses in the college curriculum, with a focus on Artificial Intelligence and Data Analytics. I am currently expanding my skills in these areas and I'm excited to see where my coding journey takes me next.
+</details>
