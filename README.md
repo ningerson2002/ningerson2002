@@ -9,7 +9,7 @@ evolved into "how would I develop a password authentication system in Python?" T
 that I can use in my every day life; from problem-solving to conceptualizing.
 
 <p align="left">
-   <a href="https://linkedin.com/li/ningerson2002/">
+   <a href="https://linkedin.com/in/ningerson2002/">
       <img alt="LinkedIn" title="Connect With Me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
    </a>
    <a href="https://github.com/ningerson2002?tab=repositories">
