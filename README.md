@@ -39,7 +39,7 @@ that I can use in my every day life; from problem-solving to conceptualizing.
 
 ### 📊 Stats
 
-![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&theme=gruvbox)
+![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&theme=tokyonight)
 
 <details>
 <summary>
