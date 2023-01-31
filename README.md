@@ -9,16 +9,16 @@ evolved into "how would I develop a password authentication system in Python?" T
 that I can use in my every day life; from problem-solving to conceptualizing.
 
 <p align="left">
-   <a href="https://linkedin.com/in/ningerson2002/">
+   <a href="https://linkedin.com/in/ningerson2002/" target = "_blank">
       <img alt="LinkedIn" title="Connect With Me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
    </a>
-   <a href="https://github.com/ningerson2002?tab=repositories">
+   <a href="https://github.com/ningerson2002?tab=repositories" target = "_blank">
       <img alt="github" title="View My Projects" src="https://img.shields.io/badge/Projects-black?logo=github&logoColor=white&style=for-the-badge">
    </a>
-   <a href="mailto:ingersonmeacham01@allegheny.edu">
+   <a href="mailto:ingersonmeacham01@allegheny.edu" target = "_blank">
       <img alt="email" title="Shoot Me an Email" src="https://shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=for-the-badge">
    </a>
-   <a href="https://nicholasingerson.netlify.app/">
+   <a href="https://nicholasingerson.netlify.app/" target = "_blank">
       <img alt="portfolio" title="Visit my Website" src="https://img.shields.io/badge/Portfolio-blueviolet?logo=Netlify&logoColor=white&style=for-the-badge">
    </a>
 </p>
