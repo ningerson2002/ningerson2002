@@ -18,8 +18,8 @@ that I can use in my every day life; from problem-solving to conceptualizing.
    <a href="mailto:ingersonmeacham01@allegheny.edu">
       <img alt="email" title="Shoot Me an Email" src="https://shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=for-the-badge">
    </a>
-   <a href="https://twitter.com/ningerson2002">
-      <img alt="twitter" title="Follow Me on Twitter" src="https://shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge">
+   <a href="https://nicholasingerson.netlify.app/">
+      <img alt="portfolio" title="Visit my Website" src="https://img.shields.io/badge/Portfolio-blueviolet?logo=Netlify&logoColor=white&style=for-the-badge">
    </a>
 </p>
 
