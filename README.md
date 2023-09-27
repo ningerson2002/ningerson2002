@@ -24,7 +24,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently attending Allegheny College.
 
@@ -35,7 +35,7 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div id="languages">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ningerson2002&theme=dark)](https://git.io/streak-stats)
 
@@ -55,7 +55,7 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts:
 
 - [Creating my Portfolio Website
   ](https://nicholasingerson.netlify.app/blog/website-development/)
