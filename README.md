@@ -52,3 +52,12 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ningerson2002&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&layout=compact&theme=vision-friendly-dark)](https://github.com/ningerson2002/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+- [Creating my Portfolio Website
+  ](https://nicholasingerson.netlify.app/blog/website-development/)
+- [Temperature Reflex Agent](https://nicholasingerson.netlify.app/projects/simple-refelex-agent/)
+- [Data Analytics Final: Analysis of Economic Data](https://nicholasingerson.netlify.app/projects/economics-data-analysis/)
