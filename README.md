@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an aspiring Software Developer currently majoring in Computer Science at [Allegheny College](https://www.allegheny.edu/). I have intermediate experience with Python based programming as well as a basic knowledge of data analysis using R. Committed to consistency and transparency, edicated to continuous development, and energize by a challenge.
+I'm an aspiring Software Developer currently majoring in Computer Science at Allegheny College. I possess intermediate Python programming skills and a foundational understanding of R for data analysis. Committed to consistency and transparency, I'm dedicated to continuous growth and thrive on challenging projects.
 
 <div id="badges" align="center">
    <a href="https://nicholasingerson.netlify.app/">
