@@ -47,7 +47,7 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 ---
 
-:fire: My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ningerson2002&theme=dark)](https://git.io/streak-stats)
 
