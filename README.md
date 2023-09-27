@@ -32,3 +32,23 @@ I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 - :seedling: Exploring Computer Organization and Learning ARM Assembly
 - :zap: In my free time, I solve problems on LeetCode, work on personal side projects, read tech articles, and spend time with friends
 - :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-nicholasingerson-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nicholasingerson)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div id="languages">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R (Programming Language)" alt="R (Programming Language)" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ningerson2002&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&layout=compact&theme=vision-friendly-dark)](https://github.com/ningerson2002/github-readme-stats)
