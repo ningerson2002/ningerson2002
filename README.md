@@ -6,10 +6,10 @@ I'm an aspiring Software Developer currently majoring in Computer Science at All
 
 <div id="badges" align="center">
    <a href="https://nicholasingerson.netlify.app/">
-      <img src="https://img.shields.io/badge/check_out_my_portfolio-navy?logo=netlify&logoColor=white&style=for-the-badge" alt="Website Badge">
+      <img src="https://img.shields.io/badge/check_out_my_portfolio-333366?logo=netlify&logoColor=white&style=for-the-badge" alt="Website Badge">
    </a>
    <a href="https://www.linkedin.com/in/nicholasingerson/">
-      <img src="https://img.shields.io/badge/visit_my_linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+      <img src="https://img.shields.io/badge/visit_my_linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
    </a>
    <a href="https://www.twitter.com/ningerson2002/">
       <img src="https://img.shields.io/badge/check_out_my_x_account-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge">
@@ -22,15 +22,15 @@ I'm an aspiring Software Developer currently majoring in Computer Science at All
 ## Languages and Tools 🛠️
 
 <div id="langs" align="center">
-   <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
-   <img src="https://img.shields.io/badge/r_(programming_language)-blue?logo=r&logoColor=white&style=for-the-badge" alt="R Badge">
+   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
+   <img src="https://img.shields.io/badge/r_(programming_language)-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R Badge">
    <img src="https://img.shields.io/badge/markdown-black?logo=markdown&logoColor=white&style=for-the-badge" alt="MD Badge">
-   <img src="https://img.shields.io/badge/git-orange?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge">
-   <img src="https://img.shields.io/badge/docker-skyblue?logo=docker&logoColor=black&style=for-the-badge" alt="Docker Badge">
-   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge">
-   <img src="https://img.shields.io/badge/vscode-blue?logo=visualstudio&logoColor=white&style=for-the-badge" alt="VSCode Badge">
+   <img src="https://img.shields.io/badge/git-FF4500?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge">
+   <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker Badge">
+   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge">
+   <img src="https://img.shields.io/badge/vscode-007ACC?logo=visualstudio&logoColor=white&style=for-the-badge" alt="VSCode Badge">
    <img src="https://img.shields.io/badge/terminal_commands-black?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Terminal Badge">
-   <img src="https://img.shields.io/badge/netlify-aqua?logo=netlify&logoColor=black&style=for-the-badge" alt="Netlify Badge">
+   <img src="https://img.shields.io/badge/netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify Badge">
 </div>
 
 ## GitHub Stats 📈
