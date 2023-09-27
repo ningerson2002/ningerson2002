@@ -1,64 +1,55 @@
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV0c3h3Zm41ZWdrY3g5MHo4M3l0aTBtdzY4a3FwazhsdTlqZWozdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150" />
-   <div id="badges">
-      <a href="https://www.linkedin.com/in/nicholasingerson/">
-         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
-      </a>
-      <a href="https://www.twitter.com/ningerson2002/">
-         <img src="https://img.shields.io/badge/X(twitter)-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge">
-      </a>
-      <a href="https://nicholasingerson.netlify.app/">
-         <img src="https://img.shields.io/badge/Portfolio-blue?logo=netlify&logoColor=white&style=for-the-badge" alt="Website Badge">
-      </a>
-   </div>
-   <img src="https://komarev.com/ghpvc/?username=ningerson2002&style=flat-square&color=blue" alt=""/>
+## About Me
+
+I am an aspiring Software Developer currently majoring in Computer Science at [Allegheny College](https://www.allegheny.edu/). I have intermediate experience with Python based programming as well as a basic knowledge of data analysis using R. Committed to consistency and transparency, edicated to continuous development, and energize by a challenge.
+
+<div id="badges" align="center">
+   <a href="https://nicholasingerson.netlify.app/">
+      <img src="https://img.shields.io/badge/check_out_my_portfolio-navy?logo=netlify&logoColor=white&style=for-the-badge" alt="Website Badge">
+   </a>
+   <a href="https://www.linkedin.com/in/nicholasingerson/">
+      <img src="https://img.shields.io/badge/visit_my_linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+   </a>
+   <a href="https://www.twitter.com/ningerson2002/">
+      <img src="https://img.shields.io/badge/check_out_my_x_account-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge">
+   </a>
+   <a href="mailto:ingersonmeacham01@allegheny.edu">
+      <img src="https://img.shields.io/badge/email_me-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge">
+   </a>
 </div>
 
-<h1 align="center">
-   hey there
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-</h1>
+## Languages and Tools 🛠️
 
-<div align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y3d3dwcG9samI5bGFuMHRscW1weG1pY2hmcm5kdmM0Z3E0bjVhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdNmEIkMm2wUpspdTf/giphy.gif" width="600" height="300">
+<div id="langs" align="center">
+   <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
+   <img src="https://img.shields.io/badge/r_(programming_language)-blue?logo=r&logoColor=white&style=for-the-badge" alt="R Badge">
+   <img src="https://img.shields.io/badge/markdown-black?logo=markdown&logoColor=white&style=for-the-badge" alt="MD Badge">
+   <img src="https://img.shields.io/badge/git-orange?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge">
+   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge">
+   <img src="https://img.shields.io/badge/vscode-blue?logo=visualstudio&logoColor=white&style=for-the-badge" alt="VSCode Badge">
+   <img src="https://img.shields.io/badge/terminal_commands-black?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Terminal Badge">
+   <img src="https://img.shields.io/badge/netlify-aqua?logo=netlify&logoColor=black&style=for-the-badge" alt="Netlify Badge">
+   <img src="https://img.shields.io/badge/docker-lightblue?logo=docker&logoColor=black&style=for-the-badge" alt="Docker Badge">
 </div>
 
----
+## GitHub Stats 📈
 
-### :man_technologist: About Me:
+[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
 
-I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently attending Allegheny College.
 
-- :telescope: I'm working as a Technical Leader for CMPSC100: Computational Expression
-- :seedling: Exploring Computer Organization and Learning ARM Assembly
-- :zap: In my free time, I solve problems on LeetCode, work on personal side projects, read tech articles, and spend time with friends
-- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-nicholasingerson-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nicholasingerson)
+## Latest Blog Posts :writing_hand:
 
----
-
-### :hammer_and_wrench: Languages and Tools:
-
-<div id="languages">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R (Programming Language)" alt="R (Programming Language)" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ningerson2002&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&layout=compact&theme=vision-friendly-dark)](https://github.com/ningerson2002/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts:
-
+- [Data Analytics Final: Analysis of Economic Data](https://nicholasingerson.netlify.app/projects/economics-data-analysis/)
+- [Temperature Reflex Agent](https://nicholasingerson.netlify.app/projects/simple-refelex-agent/)
 - [Creating my Portfolio Website
   ](https://nicholasingerson.netlify.app/blog/website-development/)
-- [Temperature Reflex Agent](https://nicholasingerson.netlify.app/projects/simple-refelex-agent/)
-- [Data Analytics Final: Analysis of Economic Data](https://nicholasingerson.netlify.app/projects/economics-data-analysis/)
+
+## Currently Learning :brain:
+
+- <img src="https://img.shields.io/badge/arm_assembly-black?logo=raspberrypi&logoColor=white&style=for-the-badge" alt="Assembly Badge">
+- Computer Organization
+
+---
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=ningerson2002&style=flat-square&color=blue" alt=""/>
+</div>
