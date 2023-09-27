@@ -1,3 +1,5 @@
+<img src="imgs/linkedin_banner.jpg" width="1500">
+
 ## About Me
 
 I am an aspiring Software Developer currently majoring in Computer Science at [Allegheny College](https://www.allegheny.edu/). I have intermediate experience with Python based programming as well as a basic knowledge of data analysis using R. Committed to consistency and transparency, edicated to continuous development, and energize by a challenge.
@@ -36,7 +38,6 @@ I am an aspiring Software Developer currently majoring in Computer Science at [A
 [![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
 
-
 ## Latest Blog Posts :writing_hand:
 
 - [Data Analytics Final: Analysis of Economic Data](https://nicholasingerson.netlify.app/projects/economics-data-analysis/)
@@ -50,6 +51,7 @@ I am an aspiring Software Developer currently majoring in Computer Science at [A
 - Computer Organization
 
 ---
+
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=ningerson2002&style=flat-square&color=blue" alt=""/>
 </div>
