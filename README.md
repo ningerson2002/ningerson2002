@@ -47,8 +47,8 @@ I'm an aspiring Software Developer currently majoring in Computer Science at All
 
 ## Currently Learning :brain:
 
-- <img src="https://img.shields.io/badge/arm_assembly-black?logo=raspberrypi&logoColor=white&style=for-the-badge" alt="Assembly Badge">
-- Computer Organization
+- <img src="https://img.shields.io/badge/armv6_assembly-black?logo=raspberrypi&logoColor=white&style=for-the-badge" alt="Assembly Badge">
+- Binary and Data Representation
 
 ---
 
