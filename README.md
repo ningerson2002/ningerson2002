@@ -12,7 +12,7 @@ I'm an aspiring Software Developer currently majoring in Computer Science at All
       <img src="https://img.shields.io/badge/visit_my_linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
    </a>
    <a href="https://www.twitter.com/ningerson2002/">
-      <img src="https://img.shields.io/badge/check_out_my_x_account-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge">
+      <img src="https://img.shields.io/badge/follow_me_on_x-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge">
    </a>
    <a href="mailto:ingersonmeacham01@allegheny.edu">
       <img src="https://img.shields.io/badge/email_me-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge">
