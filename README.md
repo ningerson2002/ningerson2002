@@ -1,4 +1,4 @@
-<img src="imgs/linkedin_banner.jpg" width="1500">
+<img src="imgs/linkedin_banner.png" width="1500">
 
 ## About Me
 
