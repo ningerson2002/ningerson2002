@@ -38,16 +38,9 @@ I'm an aspiring Software Developer currently majoring in Computer Science at All
 [![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
 
-## Latest Blog Posts :writing_hand:
-
-- [Data Analytics Final: Analysis of Economic Data](https://nicholasingerson.netlify.app/projects/economics-data-analysis/)
-- [Temperature Reflex Agent](https://nicholasingerson.netlify.app/projects/simple-refelex-agent/)
-- [Creating my Portfolio Website
-  ](https://nicholasingerson.netlify.app/blog/website-development/)
-
 ## Currently Learning :brain:
 
-- <img src="https://img.shields.io/badge/basic_c-black?logo=c&logoColor=white&style=for-the-badge" alt="Assembly Badge">
+- <img src="https://img.shields.io/badge/multicore_programming_and_processing-black?logo=c&logoColor=white&style=for-the-badge" alt="Assembly Badge">
 - Computer Architecture
 
 ---
