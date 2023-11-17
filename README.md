@@ -23,6 +23,8 @@ I'm an aspiring Software Developer currently majoring in Computer Science at All
 
 <div id="langs" align="center">
    <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
+   <img src="https://img.shields.io/badge/HTML-3776AB?logo=html&logoColor=white&style=for-the-badge" alt="HTML Badge">
+   <img src="https://img.shields.io/badge/CSS-3776AB?logo=css&logoColor=white&style=for-the-badge" alt="CSS Badge">
    <img src="https://img.shields.io/badge/r_(programming_language)-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R Badge">
    <img src="https://img.shields.io/badge/markdown-black?logo=markdown&logoColor=white&style=for-the-badge" alt="MD Badge">
    <img src="https://img.shields.io/badge/git-FF4500?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge">
