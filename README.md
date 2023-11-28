@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nic Ingerson
-====================================================================================================================================
+Hi 👋 My name is Nic Ingerson
+=============================
 
 Software Developer
 ------------------
@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/ningerson2002?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="ningerson2002's GitHub stats" /></a>
+<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&hide=contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="ningerson2002's GitHub stats" /></a>
 
 <a href="http://www.github.com/ningerson2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ningerson2002&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
