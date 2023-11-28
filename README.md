@@ -1,52 +1,42 @@
 <img src="imgs/linkedin_banner.png" width="1500">
 
-## About Me
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nic Ingerson
+====================================================================================================================================
 
-I'm an aspiring Software Developer currently majoring in Computer Science at Allegheny College. I possess intermediate Python programming skills and a foundational understanding of R for data analysis. Committed to consistency and transparency, I'm dedicated to continuous growth and thrive on challenging projects.
+Software Developer
+------------------
 
-<div id="badges" align="center">
-   <a href="https://nicholasingerson.netlify.app/">
-      <img src="https://img.shields.io/badge/check_out_my_portfolio-333366?logo=netlify&logoColor=white&style=for-the-badge" alt="Website Badge">
-   </a>
-   <a href="https://www.linkedin.com/in/nicholasingerson/">
-      <img src="https://img.shields.io/badge/visit_my_linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
-   </a>
-   <a href="https://www.twitter.com/ningerson2002/">
-      <img src="https://img.shields.io/badge/follow_me_on_x-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge">
-   </a>
-   <a href="mailto:ingersonmeacham01@allegheny.edu">
-      <img src="https://img.shields.io/badge/email_me-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge">
-   </a>
-</div>
+I'm a passionate and curious third-year student at Allegheny College, diving deep into the world of Python programming. 🐍 Currently pursuing my BS in Computer Science, I am enthusiastic about leveraging technology to solve real-world problems and constantly expanding my skills in the ever-evolving field of software development.
 
-## Languages and Tools 🛠️
+* 🌍  I'm based in Pennsylvania
+* 🖥️  See my portfolio at [nicholasingerson.netlify.app](http://nicholasingerson.netlify.app/)
+* ✉️  You can contact me at [ingersonmeacham01@allegheny.edu](mailto:ingersonmeacham01@allegheny.edu)
+* 🧠  I'm learning computer architecture and organization with C
+* ⚡  I am the philanthropy chair of my Fraternity, Phi Delta Theta
 
-<div id="langs" align="center">
-   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
-   <img src="https://img.shields.io/badge/html5-E34C26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML Badge">
-   <img src="https://img.shields.io/badge/css3-264DE4?logo=css3&logoColor=white&style=for-the-badge" alt="CSS Badge">
-   <img src="https://img.shields.io/badge/r_(programming_language)-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R Badge">
-   <img src="https://img.shields.io/badge/markdown-black?logo=markdown&logoColor=white&style=for-the-badge" alt="MD Badge">
-   <img src="https://img.shields.io/badge/git-FF4500?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge">
-   <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker Badge">
-   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge">
-   <img src="https://img.shields.io/badge/vscode-007ACC?logo=visualstudio&logoColor=white&style=for-the-badge" alt="VSCode Badge">
-   <img src="https://img.shields.io/badge/terminal_commands-black?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Terminal Badge">
-   <img src="https://img.shields.io/badge/netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify Badge">
-</div>
+<a href="https://www.github.com/ningerson2002" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ningerson2002?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/ningerson2002" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ningerson2002?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
+/></a>
 
-## GitHub Stats 📈
+### Skills
 
-[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&theme=transparent&hide_border=true)](https://github.com/ningerson2002/github-readme-stats)
 
-## Currently Learning :brain:
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-- <img src="https://img.shields.io/badge/multicore_programming_and_processing-black?logo=c&logoColor=white&style=for-the-badge" alt="Assembly Badge">
-- Computer Architecture
 
----
+### Socials
 
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=ningerson2002&style=flat-square&color=blue" alt=""/>
-</div>
+<p align="left"> <a href="https://discord.com/users/777skullkid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ningerson2002" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/nicingerson777" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nicholasingerson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/ningerson2002" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@nicingerson777" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ningerson2002's GitHub stats" /></a>
+
+<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ningerson2002&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/ningerson2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
