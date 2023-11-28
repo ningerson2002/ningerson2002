@@ -1,5 +1,3 @@
-<img src="imgs/linkedin_banner.png" width="1500">
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nic Ingerson
 ====================================================================================================================================
 
@@ -15,8 +13,8 @@ I'm a passionate and curious third-year student at Allegheny College, diving dee
 * ⚡  I am the philanthropy chair of my Fraternity, Phi Delta Theta
 
 <a href="https://www.github.com/ningerson2002" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ningerson2002?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/ningerson2002" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ningerson2002?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
+src="https://img.shields.io/github/followers/ningerson2002?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a><a href="https://www.x.com/ningerson2002" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ningerson2002?logo=twitter&style=for-the-badge&color=ec4899&labelColor=181824"
 /></a>
 
 ### Skills
@@ -35,8 +33,8 @@ src="https://img.shields.io/twitter/follow/ningerson2002?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ningerson2002's GitHub stats" /></a>
+<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-stats.vercel.app/api?username=ningerson2002&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="ningerson2002's GitHub stats" /></a>
 
-<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ningerson2002&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ningerson2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ningerson2002&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ningerson2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ningerson2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningerson2002&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
