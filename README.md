@@ -4,12 +4,12 @@ Hi 👋 My name is Nic Ingerson
 Software Developer
 ------------------
 
-I'm a passionate and curious third-year student at Allegheny College, diving deep into the world of Python programming. 🐍 Currently pursuing my BS in Computer Science, I am enthusiastic about leveraging technology to solve real-world problems and constantly expanding my skills in the ever-evolving field of software development.
+I'm a passionate and curious junior at Allegheny College, diving deep into the world of Python programming. 🐍 Currently pursuing my BS in Computer Science, I am enthusiastic about leveraging technology to solve real-world problems and constantly expanding my skills in the ever-evolving field of software development.
 
 * 🌍  I'm based in Pennsylvania
 * 🖥️  See my portfolio at [nicholasingerson.netlify.app](http://nicholasingerson.netlify.app/)
 * ✉️  You can contact me at [ingersonmeacham01@allegheny.edu](mailto:ingersonmeacham01@allegheny.edu)
-* 🧠  I'm learning computer architecture and organization with C
+* 🧠  I'm learning computer security
 * ⚡  I am the philanthropy chair of my Fraternity, Phi Delta Theta
 
 <a href="https://www.github.com/ningerson2002" target="_blank" rel="noreferrer"><img
